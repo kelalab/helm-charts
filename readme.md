@@ -5,6 +5,11 @@ Using this repository:
 helm repo add kelalab https://kelalab.github.io/helm-charts/
 helm search repo kelalab
 ```
+Check for new charts
+```
+helm repo update
+helm search repo kelalab
+```
 
 ## Updating repository
 
