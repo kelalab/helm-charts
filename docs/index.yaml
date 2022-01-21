@@ -3,12 +3,12 @@ entries:
   von-network-nodes:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-21T11:28:59.352387+02:00"
+    created: "2022-01-21T11:44:37.33703+02:00"
     description: A Helm chart for Kubernetes
-    digest: c9ca3b59f83c0f5d8bd0fbaf5e6e56e4afcb3eac126d54afce6073fc533b93ff
+    digest: 0c9ad56a3a9c3aa0a54c59d6f9cb711fbd7e998ef6eeeed5bccc3a5315a8d4b6
     name: von-network-nodes
     type: application
     urls:
     - https://kelalab.github.io/helm-charts/von-network-nodes-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-21T11:28:59.349676+02:00"
+generated: "2022-01-21T11:44:37.334978+02:00"
