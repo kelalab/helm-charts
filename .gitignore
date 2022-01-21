@@ -1,4 +1,4 @@
 ## for now lets not include submodules from chart sources
-chart-sources
+#chart-sources
 
 .DS_Store
