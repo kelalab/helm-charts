@@ -1,5 +1,10 @@
 # Helm charts by Kelalab
 
+Using this repository:
+```
+helm repo add kelalab https://kelalab.github.io/helm-charts/
+```
+
 ## 1. Check charts
 ```
 helm lint chart-sources/*
