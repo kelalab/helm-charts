@@ -3,6 +3,7 @@
 Using this repository:
 ```
 helm repo add kelalab https://kelalab.github.io/helm-charts/
+helm search repo kelalab
 ```
 
 ## Updating repository
