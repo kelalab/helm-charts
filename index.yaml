@@ -3,9 +3,9 @@ entries:
   acapy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-25T10:39:24.756892+02:00"
+    created: "2022-01-25T11:13:47.925167+02:00"
     description: A Helm chart for Kubernetes
-    digest: 7284c2def689e5d108b7c1d2228d87a212a3e2f0363e1e5f382e54f692ab2712
+    digest: bcb2838df6f901a40a4a858c2b6aefc6cb36a7175decbdfec8e8342e4a1f556b
     name: acapy
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   findy-agency-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-25T10:39:24.762425+02:00"
+    created: "2022-01-25T11:13:47.929314+02:00"
     description: A Helm chart for running findy agency in Kubernetes
     digest: 204def5e11b53ef29d0a8840e44a5a2d26730dd297d018daaf96fb1111cac58e
     name: findy-agency-chart
@@ -25,7 +25,7 @@ entries:
   von-browser:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-25T10:39:24.763521+02:00"
+    created: "2022-01-25T11:13:47.930504+02:00"
     description: A Helm chart for Kubernetes
     digest: efe9c79077fc3239ef44a7ccb465b4ea3861e85232b89fae99aad17c8d7029c6
     name: von-browser
@@ -36,7 +36,7 @@ entries:
   von-network-nodes:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-25T10:39:24.765418+02:00"
+    created: "2022-01-25T11:13:47.93249+02:00"
     description: A Helm chart for Kubernetes
     digest: 0c9ad56a3a9c3aa0a54c59d6f9cb711fbd7e998ef6eeeed5bccc3a5315a8d4b6
     name: von-network-nodes
@@ -44,4 +44,4 @@ entries:
     urls:
     - https://kelalab.github.io/helm-charts/von-network-nodes-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-25T10:39:24.753481+02:00"
+generated: "2022-01-25T11:13:47.92345+02:00"
