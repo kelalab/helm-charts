@@ -3,7 +3,7 @@ entries:
   acapy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-14T13:42:57.469863+02:00"
+    created: "2022-02-14T13:49:14.187428+02:00"
     description: A Helm chart for Kubernetes
     digest: 4b27240eaabb8755c9e85d26d3b473c1ade7ee1ded96d4157f724b0481e53e13
     name: acapy
@@ -14,7 +14,7 @@ entries:
   findy-agency-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-14T13:42:57.475207+02:00"
+    created: "2022-02-14T13:49:14.191487+02:00"
     description: A Helm chart for running findy agency in Kubernetes
     digest: 1d364dc982ce8a35756d0f9e815ef8bf819436eb7bff6670491b6044c901e4e3
     name: findy-agency-chart
@@ -25,7 +25,7 @@ entries:
   findy-endorser:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-14T13:42:57.477541+02:00"
+    created: "2022-02-14T13:49:14.192815+02:00"
     description: A Helm chart for an endorser web application/controller for Findy
     digest: e0fbb5a21fe331a62137522eebebd8b0861bbc3e37e26b4c44fd9d5ce0409097
     name: findy-endorser
@@ -36,9 +36,9 @@ entries:
   von-browser:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-14T13:42:57.479131+02:00"
+    created: "2022-02-14T13:49:14.194793+02:00"
     description: A Helm chart for Kubernetes
-    digest: edf1eae17290abaa7f7b0e5168979482788a74ac87df5ac304f41ecd247cd0ee
+    digest: 7ba178615bf2bc099e3eec69c8680aa8202e1bb048b75306cfa6a13e2a219ce6
     name: von-browser
     type: application
     urls:
@@ -47,7 +47,7 @@ entries:
   von-network-nodes:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-14T13:42:57.48547+02:00"
+    created: "2022-02-14T13:49:14.196703+02:00"
     description: A Helm chart for Kubernetes
     digest: 406961fb2603ae44dec3c281c9f2954cc9ed97eb9b7d3e5fca7daf369c7b36db
     name: von-network-nodes
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://kelalab.github.io/helm-charts/von-network-nodes-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-14T13:42:57.465465+02:00"
+generated: "2022-02-14T13:49:14.185814+02:00"
