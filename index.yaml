@@ -3,7 +3,7 @@ entries:
   acapy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-15T12:23:43.220067+02:00"
+    created: "2022-02-15T12:48:47.964775+02:00"
     description: A Helm chart for Kubernetes
     digest: 4b27240eaabb8755c9e85d26d3b473c1ade7ee1ded96d4157f724b0481e53e13
     name: acapy
@@ -14,9 +14,9 @@ entries:
   findy-agency-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-15T12:23:43.22413+02:00"
+    created: "2022-02-15T12:48:47.968837+02:00"
     description: A Helm chart for running findy agency in Kubernetes
-    digest: c6e64e8e5376f13e88de361c645dc1afebc72af56990c85340170da99d52f19c
+    digest: 14bcd4dad4cf30574cd1bcae76f85e575fdb336477807fe37af47177d7bf3931
     name: findy-agency-chart
     type: application
     urls:
@@ -25,9 +25,9 @@ entries:
   findy-endorser:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-02-15T12:23:43.225035+02:00"
+    created: "2022-02-15T12:48:47.96974+02:00"
     description: A Helm chart for an endorser web application/controller for Findy
-    digest: 6e6845e1de6acee1e40dbfdf98951e23a2a261358cfbba6562ace98b8e565d73
+    digest: dbc42fcc4298aea2354448ae78bde0b8c9bda6cc1a40235f2393df044f31bc91
     name: findy-endorser
     type: application
     urls:
@@ -36,9 +36,9 @@ entries:
   von-browser:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-15T12:23:43.22685+02:00"
+    created: "2022-02-15T12:48:47.970796+02:00"
     description: A Helm chart for Kubernetes
-    digest: 22176a783aa5af57ffc5c2b8727f7acddbf8d1f13354de1d288837d22ebcbc1a
+    digest: 7678984079ddab55ad39e35a771a512758bc396c595288c9bbfe728817f2064c
     name: von-browser
     type: application
     urls:
@@ -47,7 +47,7 @@ entries:
   von-network-nodes:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-15T12:23:43.228929+02:00"
+    created: "2022-02-15T12:48:47.97305+02:00"
     description: A Helm chart for Kubernetes
     digest: 406961fb2603ae44dec3c281c9f2954cc9ed97eb9b7d3e5fca7daf369c7b36db
     name: von-network-nodes
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://kelalab.github.io/helm-charts/von-network-nodes-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-15T12:23:43.218297+02:00"
+generated: "2022-02-15T12:48:47.962956+02:00"
